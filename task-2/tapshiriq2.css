@@ -1,0 +1,23 @@
+body{
+	background: gray;
+}
+
+h1{
+	display: inline;
+	text-align: center;
+	font-size: 24px;
+}
+p{
+	width:80%;
+	text-align: left;
+}
+
+.white{
+	margin: 30px;
+	display: inline-block;
+	width: 150px;
+    height: 150px;
+	border: solid black;
+	background: white;
+	
+}
